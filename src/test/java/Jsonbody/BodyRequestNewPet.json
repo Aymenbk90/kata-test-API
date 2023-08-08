@@ -1,0 +1,18 @@
+{
+  "id": 16,
+  "name": "Scoupidou",
+  "birthDate": "1999-09-07",
+  "type": {
+    "id": 2,
+    "name": "dog"
+  },
+  "owner": {
+    "id": 1,
+    "firstName": "Aymen",
+    "lastName": "BK",
+    "address": "110 W. Liberty St.",
+    "city": "Madison",
+    "telephone": "6085551023"
+  },
+  "visits": []
+}
